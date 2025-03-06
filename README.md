@@ -1,4 +1,4 @@
-# slip_detection_dataset_2023
+# slip_detection_dataset_2025
 
 [Tactile dataset](https://github.com/ARQ-CRISP/slip_detection_dataset_2023/tree/main/dataset) generated using a new object-agnostic protocol that allows collecting tactile data for training robust slip detection models during robotic object grasping. The proposed protocol steps are described in detail in [1] and are summarised as follows:
 
